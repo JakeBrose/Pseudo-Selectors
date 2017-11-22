@@ -9,7 +9,7 @@
 }
 
 
-.n-child:nth-child(even){
+.n-child :nth-child(even){
     border: 1px;
     color: red;
    
