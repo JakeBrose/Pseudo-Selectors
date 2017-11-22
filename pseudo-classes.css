@@ -1,0 +1,17 @@
+.top .block {
+    display: inline;
+}
+
+.inline {
+    display: block;
+    border: 1px;
+    margin: 25px;
+}
+
+
+.n-child:nth-child(even){
+    border: 1px;
+    color: red;
+   
+}
+
